@@ -2,6 +2,8 @@
 
 This project completes the UDA course in Year 2 of the Machine Learning Masters at Imperial College London.
 
+"An exploration of Text Recognition and OCR for DVD Cases" - Thomas Ribaroff
+
 Files included are as follows:
 
   1 - UDA_FinalProject_02154056.pdf - A report detailing all the work in layman's terms 
