@@ -2,7 +2,7 @@
 
 This project completes the UDA course in Year 2 of the Machine Learning Masters at Imperial College London.
 
-Files induced are as follows:
+Files included are as follows:
 
   1 - UDA_FinalProject_02154056.pdf - A report detailing all the work in layman's terms 
   
